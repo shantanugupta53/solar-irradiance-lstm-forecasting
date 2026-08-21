@@ -106,24 +106,7 @@ data to become reliable.
     └── LSTM_Modelling_OCR_DRAFT.py   OCR-transcribed draft of the notebook code (see note below)
 ```
 
-### ⚠️ A note on the code in this repo
 
-The original submission was a Jupyter notebook, but only the **PDF report**
-(with the notebook printed as flat page images) was available when this
-repository was put together — the source `.ipynb`/`.py` files were not
-recoverable. `notebook/LSTM_Modelling_OCR_DRAFT.py` was produced by running
-OCR over those page images, in page order, as a head start on retyping the
-real thing.
-
-**Treat it as a rough draft, not working code.** OCR on code is unreliable —
-expect issues like `0`/`O`/`@` confusion, smart quotes instead of straight
-quotes, dropped `In [ ]:` cell markers, and garbled output blocks. Before
-relying on any line, cross-check it against the corresponding page image in
-`docs/code_pages/` (page `NNN` in that folder lines up with the section
-labelled `notebook page NNN` in the draft file). If you still have the
-original notebook anywhere (old laptop, Google Drive, email attachments,
-IIT-H Google Classroom submission, etc.), replacing this draft with the real
-file is strongly recommended.
 
 ## Suggested requirements.txt
 
