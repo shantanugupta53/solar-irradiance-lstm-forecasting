@@ -1,4 +1,1 @@
-# MyDemo
-This is a demo repository,
-<br>
-Author: Shantanu Gupta
+solar-irradiance-lstm-forecasting
